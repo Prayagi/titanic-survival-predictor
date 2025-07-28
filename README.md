@@ -32,15 +32,12 @@ The dataset is based on real passenger data from the Titanic and includes detail
 This dataset is sourced from [Kaggle's Titanic Competition](https://www.kaggle.com/c/titanic/data).
 
 
-## Project Structure
-
-
-
+## Project Structure:
 titanic-survival-predictor/
-├── titanic_proj.py               # ML model and prediction logic
-├── train.csv                    # Passenger dataset
-├── requirements.txt             # Required Python packages
-└── README.md                     # Project documentation
+titanic_proj.py               # ML model and prediction logic
+train.csv                    # Passenger dataset
+requirements.txt             # Required Python packages
+README.md                     # Project documentation
 
 ## Features Used for Prediction
 
