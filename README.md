@@ -1,4 +1,4 @@
-# Titanic Survival Predictor 🚢
+# Titanic Survival Predictor 
 
 A simple machine learning project that predicts whether a passenger survived the Titanic disaster based on features like age, sex, class, and fare.
 
